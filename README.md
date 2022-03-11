@@ -11,3 +11,5 @@ python3 main.py
 Перед запуском рекоммендуется поставить [виртуальное окружение](https://docs.python.org/3.9/library/venv.html). 
 
 
+Ссылка для swagger документации: ```/docs```
+
